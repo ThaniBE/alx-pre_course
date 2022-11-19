@@ -18,8 +18,9 @@ Action to make the changes permanent in the repository either locally or remotel
 
 Branching
 ---
-Similar to craeting a virtual environment so that the original repo can't be affected with the changes made till they are merged.
+Similar to creating a virtual environment so that the original repo can't be affected with the changes made till they are merged.
 **command**: `git branch branchname`, `git checkout branchname`, git push remote-name branchname`
+
 Resolving Conflicts
 ---
 What is a conflict?
